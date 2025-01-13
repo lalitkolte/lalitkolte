@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lalit-kolte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit-kolte" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lalit-kolte-a9360b33a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalit-kolte" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/koltelalit14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="koltelalit14" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lalitkolte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lalitkolte" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/lalit723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="lalit723" height="30" width="40" /></a>
